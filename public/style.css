@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(33, 37, 41) !important;
+}
+
+
+.head{
+    background-image: url(http://picsum.photos/1000) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.entrare{
+    text-decoration: none;
+    color: goldenrod    ;
+}
